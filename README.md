@@ -12,7 +12,7 @@ Olá, meu nome é Victor e sou um aspirante a programação e busco sempre cresc
 
 ## Minhas redes sociais são:
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin
 )](https://www.linkedin.com/in/victor-bueno-tavares-7b15781b5/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Viktoraxl)
@@ -22,8 +22,7 @@ Olá, meu nome é Victor e sou um aspirante a programação e busco sempre cresc
 Busco oportunidades de aprendizado e conhecer novas tecnologias. Conheço um pouco de ![Golang](https://img.shields.io/badge/Golang-blue?logo=Go&logoColor=white)
 e beeem pouco de ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&labelColor=yellow&color=yellow) 😂😂😂
 
-Estou aprendendo muito com o BootCamp da DIO, coisas que só ouvia falar, mas nunca corri atrás pra saber mesmo.
-
+Estou aprendendo muito com o BootCamp da DIO, coisas que só ouvia falar, mas nunca soube como procurar e nem por onde começar.
 
 
 
